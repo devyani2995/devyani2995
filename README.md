@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I am Devyani Singh
+Passionate and results-oriented Front-End Developer with 2.9 years of experience crafting high-quality UI components for both web and mobile applications. 
 
 <!--
 **devyani2995/devyani2995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

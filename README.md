@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web and Mobile application projects.
-- 🌱 I’m currently learning Backend with NodeJS, ExpressJS, and MongoDB database.
-- 👯 I’m looking to collaborate on Web, Mobile, and Backend dev projects.
+- 🔭 I’m currently working on **Web and Mobile application projects**.
+- 🌱 I’m currently learning **Backend with NodeJS, ExpressJS, and MongoDB database**.
+- 👯 I’m looking to collaborate on **Web, Mobile, and Backend dev projects**.
 - 💬 Ask me about technologies and personal development.
 - 📫 How to reach me: devyani.singh0509@gmail.com
 

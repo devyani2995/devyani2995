@@ -1,7 +1,7 @@
 <img alt="coding" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
 
 <h1 align="center">Hi there 👋 I am Devyani Singh</h1> 
-Passionate and results-oriented Front-End Developer with 2.9 years of experience crafting high-quality UI components for both web and mobile applications. 
+Passionate and results-oriented Front-End Developer with 3 years of experience crafting high-quality UI components for both web and mobile applications. 
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 

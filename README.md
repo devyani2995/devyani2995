@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Backend with NodeJS, ExpressJS, and MongoDB database**.
 - 👯 I’m looking to collaborate on **Web, Mobile, and Backend dev projects**.
 - 💬 Ask me about technologies and personal development.
-- 📫 How to reach me: devyani.singh0509@gmail.com
+- 📫 How to reach me: devyanisingh42@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devyani-singh-0b22b7150)
